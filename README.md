@@ -43,3 +43,6 @@ Permite que você tenha recursos disponiveis globalmente e que possa chegar a um
 
 ### Software como Serviço - SaaS
 
+<ul>
+  <li>O contratante só vai fazer uso do produto final, exemplo: Gmail, Google Docs e Youtube são SaaS.</li>
+</ul>
