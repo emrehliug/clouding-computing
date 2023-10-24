@@ -46,3 +46,22 @@ Permite que você tenha recursos disponiveis globalmente e que possa chegar a um
 <ul>
   <li>O contratante só vai fazer uso do produto final, exemplo: Gmail, Google Docs e Youtube são SaaS.</li>
 </ul>
+
+## Tipos de Instalações
+### Plublic Cloud:
+
+<ul>
+  <li>Recursos publicos e utilizados por todos, sem necessariamente uma particularidade.</li>
+</ul>
+
+### Private Cloud:
+
+<ul>
+  <li>Recursos unicos e utilizados somente por quem contratou, com total particularidade.</li>
+</ul>
+
+### Hybrid Cloud:
+
+<ul>
+  <li>Divisão entre recursos, public e privado ao mesmo tempo.</li>
+</ul>
