@@ -27,19 +27,17 @@ Permite que você tenha recursos disponiveis globalmente e que possa chegar a um
 ## Tipos de Clouding Computing
 ### Infraestrutura como Serviço - IaaS
 
-<ul>
-  <li>O contratante gerencia os servidores, sejam fisicos ou virtuais.</li>
-  <li>O contratante gerencia os sistemas operacionais e softwares adicionais.</li>
-  <li>O datacenter não tem responsabilidade sobre o que você faz com os recursos(servidores)</li>
-</ul>
+  * O contratante gerencia os servidores, sejam fisicos ou virtuais.
+  * O contratante gerencia os sistemas operacionais e softwares adicionais.
+  * O datacenter não tem responsabilidade sobre o que você faz com os recursos(servidores)
 
 ### Plataforma como Serviço - PaaS
 
-<ul>
-  <li>O Datacenter é responsavel pelos recursos fisicos ou virtuais, sistemas operacionais, softwares, alguns itens de segurança.</li>
-  <li>O contratante é responsavel apenas por sua propria aplicação</li>
-  <li>Aqui por exeplo, se você quiser colocar um website no ar, a empresa te provê todo o ambiente, bastando você fazer o upload da sua aplicação e configurá-la.</li>
-</ul>
+
+  * O Datacenter é responsavel pelos recursos fisicos ou virtuais, sistemas operacionais, softwares, alguns itens de segurança.
+  * O contratante é responsavel apenas por sua propria aplicação
+  * Aqui por exeplo, se você quiser colocar um website no ar, a empresa te provê todo o ambiente, bastando você fazer o upload da sua aplicação e configurá-la.
+
 
 ### Software como Serviço - SaaS
 
